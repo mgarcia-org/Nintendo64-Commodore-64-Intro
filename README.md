@@ -10,4 +10,6 @@ Original page: http://mgarcia.org/2017/12/09/nintendo-n64-homebrew-starting-guid
 
 Archive: https://archive.is/POn1R
 
-
+![GitHub Logo](N64-c64-1.png)
+![GitHub Logo](N64-c64-2.png)
+![GitHub Logo](N64-c64-3.png)
